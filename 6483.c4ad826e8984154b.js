@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_portafolio=self.webpackChunkproject_portafolio||[]).push([[6483],{6483:(d,o,t)=>{t.r(o),t.d(o,{loadStarShape:()=>r});var e=t(467);function r(n){return a.apply(this,arguments)}function a(){return(a=(0,e.A)(function*(n,l=!0){const{StarDrawer:s}=yield t.e(2718).then(t.bind(t,2718));yield n.addShape("star",new s,l)})).apply(this,arguments)}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_portafolio=self.webpackChunkproject_portafolio||[]).push([[7885],{7885:(l,a,t)=>{t.r(a),t.d(a,{LineDrawer:()=>i});class i{draw(e){!function r(n){const{context:e,particle:p,radius:o}=n,u=p.shapeData;e.moveTo(-o,0),e.lineTo(o,0),e.lineCap=u?.cap??"butt"}(e)}getSidesCount(){return 1}}}}]);

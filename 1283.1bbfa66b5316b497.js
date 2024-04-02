@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_portafolio=self.webpackChunkproject_portafolio||[]).push([[1283],{1283:(u,o,n)=>{n.r(o),n.d(o,{LinksPlugin:()=>t});var s=n(467);class t{constructor(){this.id="links"}getPlugin(e){return(0,s.A)(function*(){const{LinkInstance:l}=yield n.e(3584).then(n.bind(n,3584));return new l(e)})()}loadOptions(){}needsPlugin(){return!0}}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_portafolio=self.webpackChunkproject_portafolio||[]).push([[9744],{9744:(d,r,t)=>{t.r(r),t.d(r,{TriangleDrawer:()=>l});var n=t(4988);class l extends n.L{getCenter(c,e){return{x:-e,y:e/1.66}}getSidesCount(){return 3}getSidesData(c,e){return{count:{denominator:2,numerator:3},length:2*e}}}}}]);

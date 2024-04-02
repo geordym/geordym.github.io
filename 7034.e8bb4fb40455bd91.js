@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_portafolio=self.webpackChunkproject_portafolio||[]).push([[7034],{7034:(u,t,e)=>{e.r(t),e.d(t,{Pauser:()=>r});var a=e(1033);class r extends a.sJ{constructor(o){super(o),this.handleClickMode=i=>{if("pause"!==i)return;const s=this.container;s.animationStatus?s.pause():s.play()}}clear(){}init(){}interact(){}isEnabled(){return!0}reset(){}}}}]);
